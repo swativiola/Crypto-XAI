@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""*FBProphet LIME IML SHAP.ipynb
-"""
 
 from google.colab import drive
 drive.mount('/content/drive')
