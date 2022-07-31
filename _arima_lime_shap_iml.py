@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-"""*ARIMA LIME SHAP IML.ipynb
-"""
 
 from google.colab import drive
 drive.mount('/content/drive')
